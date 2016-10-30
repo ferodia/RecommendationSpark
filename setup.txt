@@ -1,0 +1,9 @@
+https://blog.insightdatascience.com/spinning-up-a-spark-cluster-on-spot-instances-step-by-step-e8ed14ebb3b#.7uac9pkfc
+
+http://blog.prabeeshk.com/blog/2014/10/31/install-apache-spark-on-ubuntu-14-dot-04/
+
+http://spark.apache.org/downloads.html
+
+http://www.scala-sbt.org/0.13/docs/Installing-sbt-on-Linux.html
+
+http://angus.readthedocs.io/en/2014/amazon/transfer-files-between-instance.html

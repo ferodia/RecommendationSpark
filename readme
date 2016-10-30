@@ -1,0 +1,3 @@
+in order to run spark in notebook this is the command
+PYSPARK_DRIVER_PYTHON=ipython PYSPARK_DRIVER_PYTHON_OPTS="notebook --pylab inline" pyspark
+PYSPARK_DRIVER_PYTHON_OPTS="notebook" spark
